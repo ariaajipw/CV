@@ -1,0 +1,80 @@
+body {
+  background-color: #6D9886;
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', sans-serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Merriweather', sans-serif;
+  font-size: 2rem;
+  color: #393E46;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  color: #F2E7D5;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #F2E7D5;
+}
+
+.top-container {
+  background-color: #F7F7F7;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {}
+
+.bottom-container {}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: ;
+    line-height: 2;
+  }
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.v60 {
+  float: left;
+  margin: 30px;
+}
+
+.beer {
+  float: left;
+  margin: 30px;
+}
+
+.v60-skill {
+  clear: left;
+}
+
+.beer-skill {
+  clear: left;
+}
+
+.beer-heading {
+  margin: 30px;
+}
